@@ -274,7 +274,7 @@ export default function Home() {
                   Recover Secret
                 </Link>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/vijaysugali98/bsv-sss-wallet" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="block text-gray-300 hover:text-white transition-colors text-sm"
